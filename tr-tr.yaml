@@ -169,12 +169,8 @@ pages_you_follow_settings: Takip ettiğiniz sayfalar
 groups_notif_settings: Gruplar
 events_notif_settings: Etkinlikler
 marketplace_notif_settings: Pazar yeri
-verify_profile_notice:
-  İnsanların profilinize güvenmesini istiyorsanız.Hesabınızı Doğrulamalısınız
-  Hesabınız.
-notice_username_settings:
-  Gerçek Adınızı ve Soyadınızı Kullanmanızı Şiddetle Tavsiye Ederiz.
-  Daha iyi bir sosyal Platform için.
+verify_profile_notice: İnsanların profilinize güvenmesini istiyorsanız. Hesabınızı Doğrulamalısınız Hesabınız.
+notice_username_settings: Gerçek Adınızı ve Soyadınızı Kullanmanızı Şiddetle Tavsiye Ederiz. Daha iyi bir sosyal Platform için.
 notice_name_settings: ""
 notice_email_settings:
   Bu e-postayı doğrulamanız gerekecek. E-posta adresinizin olduğundan emin olun
@@ -196,9 +192,7 @@ notice_pages_you_follow_settings: Takip ettiğiniz sayfalardan haberdar olun
 notice_groups_notif_settings: Bulunduğunuz gruplardan bildirim alın
 notice_events_notif_settings: İlginizi çekebilecek olaylardan haberdar olun
 notice_marketplace_notif_settings: Pazar Yerin'den haberdar olun
-notice_create_page:
-  Bir sayfa oluşturduğunuzda, Aktagram'ın <a href='#'>Sayfalar policies</a>
-  Uygulayın.
+notice_create_page: Bir sayfa oluşturduğunuzda, Aktagram'ın <a href='https://policies.aktagram.com'>Sayfalar policies</a> Uygulayın.
 title_create_a_page: Bir sayfa Oluşturun
 title_page_descripton: Sayfa açıklaması
 title_about_us: Hakkımızda
@@ -215,8 +209,7 @@ about_contact: İletişim
 decription_create_a_page: Bir sayfa oluşturduğunuzda, Aktagram'ın araçlarını aşağıdakiler için kullanabilirsiniz
   şirketinizin veya ürünlerinizin reklamını yapmak. Daha sonra pazar yerinizi şuraya bağlayabilirsiniz
   şirket sayfanız.
-description_create_a_company_page:
-  Bir şirket sayfası oluşturduğunuzda, erişiminiz olur
+description_create_a_company_page: Bir şirket sayfası oluşturduğunuzda, erişiminiz olur
   Aktagram tarafından sağlanan tüm araçlara. Böylece şirketinizin reklamını yapabileceksiniz.
   Aktagram'daki ürün ve hizmetler. Sayfanızı oluşturun, tüm bilgileri tamamlayın ve
   Satmaya başlayın!
@@ -267,7 +260,7 @@ empty_post_welcome_message:
   Bunları okumalısın <a href='#'> kurallar ve davranış kuralları </a> herhangi bir denetlemeden kaçınmak için
   Profilinizde. <br><br> Bu mesajı görüyorsanız, bunun nedeni yeni olmanızdır.
   Sitedeki tüm bağlantıları ve düğmeleri keşfederek başlayabilirsiniz. Ayrıca unutma
-  to <a href='./myaccount/profile.php'> complete your profile </a> Böylece herkes yapabilir
+  to <a href='/my/profile/'> complete your profile </a> Böylece herkes yapabilir
   onları arkadaş olarak eklerken veya onlarla bağlantı kurarken sana güveniyorum!
 login_or_signup: Şimdi Giriş Yapın veya Kaydolun
 meta_title_my_pages: Sayfalarım
@@ -412,5 +405,5 @@ modal:
     reason_title: Bir sebep seçin
 select_multipe_to_create_group: Grup oluşturmak için birden çok seçin
 username_error:
-  invalid: Bu kullanıcı adı geçersiz. Sadece harfler, sayılar, - ve _ izin verilir.
+  invalid: Bu kullanıcı adı geçersiz. Sadece harfler, sayılar ve _ izin verilir.
   already_exist: Bu kullanıcı adı zaten var
