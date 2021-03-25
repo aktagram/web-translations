@@ -2,64 +2,415 @@
 french: "fran\xE7ais"
 english: English
 turkish: "Turk\xE7e"
-register_mentions_accept: "Bir hesap olu\u015Fturarak, Aktagram'in <a href='https://policies.aktagram.com'>gizlilik
-  politikas\u0131n\u0131</a>, <a href='https://policies.aktagram.com'> kullan\u0131m
-  ko\u015Fullar\u0131n\u0131</a> okudum ve <a href='https://policies.aktagram.com'>
-  yasal bildirimleri</a> okudu\u011Fumu iddia ve kabul ediyorum"
-already_have_an_account: Hesabiniz varmiyidi ? <br> buradan <a href='login.php'> girebilirziniz
-  ! </a>
-not_registered_yet: "Hen\xFCz bir hesab\u0131n\u0131z yok mu ? <br> buradan <a href='register.php'>uye
-  olabilirsiniz</a>"
-sucessfull_register_message_mail: "Votre compte a \xE9t\xE9 cr\xE9e avec succes sur
-  SI CONNECT ! <br><br> Vous pouvez d\xE9sormais vous connectez \xE0 cette adresse
-  <a href='https://aktagram.com/login.php'>accounts.aktagram.com</a><br> <br> Merci
-  de nous faire confiance <br><br> Ceci est un mail automatique. Veuillez ne pas repondre,
-  car il ne fera l'objet d'aucun traitement"
-no-reply: Cevap vermeyin
-firstname: Ad
-lastname: Soyad
-email: E-posta
-address: Adresler
-surname: Takma ad
-birthday: "Dogum g\xFCn\xFCn\xFCz"
-city: "Il\xE7e"
-town: Town
-country: "\xFClke"
-day: "g\xFCn"
-month: ay
-year: Yil
-shipping: Teslimat
+index_head_description:
+  Yepyeni sosyal ağa hoş geldiniz! Misyonumuz
+   toplumumuzda ne olursa olsun insanlara birbirleriyle bağlantıda kalma imkanı sunmaktır..
+register_mentions_accept:
+  Bir hesap oluşturarak Aktagram'ı Kullanmak için  okuyun ve kabul edin.
+  <a href='https://policies.aktagram.com' target='blank'>privacy policy</a> and <a
+  href='https://policies.aktagram.com' target='blank'>terms and conditions.</a>
+already_have_an_account: Zaten bir hesabınız var ?
+not_registered_yet: Henüz bir hesabınız yok mu ?
+no-reply: cevap Vermeyiniz
+create_group: Grup oluşturun
+create_page: Sayfa oluşturun
+firstnameError: Adınız
+lastnameError: Soyadınız
+emailError: E-posta adresiniz
+passwordError: Bir şifre belirleyin
+thankyou_message: Lütfen e-posta gelen kutunuzu kontrol edin ve hesabınızı doğrulayın
+email_already_in_use: Bu e-posta zaten kullanımda
+login_successful_message: Başarıyla giriş yaptıktan sonra otomatik olarak yeniden yönlendirileceksiniz
+javascriptError_title: Javascript gerekli
+javascriptError_message: Üzgünüz, Aktagram javascript olmadan düzgün çalışamaz
+edit_post_privacy: Yayın gizliliği
+download_the_application: Uygulamayı indirin.
+join_the_beta_program_now: Test programında
+conversations: Konuşmalar
+chat: Sohbet
+chatting: sohbet
+date: Tarih
+Dating: flört
+meet: Tanışma
+meeting: Toplantı
+men: Erkekler
+mens: Erkeklerin
+women: Bayan
+womens: Bayanlar
+man: Adam
+woman: Kadın
+not_found_user: Bu kullanıcı mevcut değil !
+follow: Takip et
+followers: Takipçiler
+follows: Takip et
+friends: Arkadaşlar
+connect_with: Bağlan
+posts: Gönderiler
+firstname: İsim
+lastname: Soyadı
+email: E-posta adresi
+address: Adres
+gender: Cinsiyet
+male: Erkek
+female: Kadın
+surname: Soyadı
+birthday: Doğum Günü
+city: Şehir
+town: İlçe
+country: Ülke
+day: Gün
+month: Ay
+year: Yıl
+shipping: Nakliye
 billing: Faturalama
-your_username: Giriş ekle
-your_lastname: Soya addiniz
-your_firstname: Adınız
-your_birthday: "Dogum g\xFCn\xFCn\xFCz"
-your_email: Emailiniz
+your_username: Kullanıcı adınız
+your_lastname: Soy adınız
+your_firstname: Adın
+your_birthday: Doğum günün
+your_email: E-posta adresiniz
 your_email_address: E-posta adresiniz
 your_password: Şifreniz
-do_not_have_an_account_yet: Daha üye olmadiniz mı ?
-register_here: Buradan üye olun
-privacy_policy: "Gizlilik Politikas\u0131"
-terms_of_use: "kullan\u0131m \u015Eartlar\u0131"
+do_not_have_an_account_yet: Henüz bir hesabınız yok mu
+register_here: Kayıt Olun
+login_here:
+  1: Yapabilirsin
+  2: Giriş yapın
+privacy_policy: Gizlilik Politikası
+terms_of_use: Kullanım Şartları
 you_can: Yapabilirsin
-login: "Oturum a\xE7"
-register: üye ol
-register_maj: üye ol
-register_simple: üye ol
-password: şifre
-confirm_password: Şifrenizi Tekrarlayin
-register_with_siconnect_maj: <strong>SI CONNECT</strong> ile Üye ol
-login_with_siconnect_maj: "<strong>SI CONNECT</strong> ile oturum a\xE7"
-forgot_your_password: Şifrenizi unuttunuzmu  ?
-search: Ara
-home: Ana sayfa
-home_maj: ana sayfa
-find_new_friends_maj: "Arkada\u015Flar\u0131n\u0131 Bul"
-find_new_friends: "arkada\u015Flar\u0131n\u0131 Bul"
-create_maj: "Olu\u015Ftur"
-create: "olu\u015Ftur"
-my_profile_maj: Profilim
-my_pages_maj: "Sayfalar\u0131m"
-log_out_maj: "\xC7\u0131k\u0131\u015F Yap"
-settings_maj: Ayaralar
-...
+login: Oturum aç
+register: Kayıt ol
+register_simple: Kayıt ol
+password: Şifreniz
+confirm_password: Şifrenizi doğrulayın
+register_with_siconnect: Şununla kayıt olun <strong>Bağlanın</strong>
+login_with_siconnect: İle giriş <strong>Bağlanın</strong>
+forgot_your_password: Şifrenizi mi unuttunuz?
+settings: Ayarlar
+Enable: Etkinleştirme
+enable: Etkinleştirme
+update_my_profile_pic: Profil Resmini güncelle
+update_my_profile_cover: kapak Resmini güncelle
+update_cover_profile_button: Kapak Resmini güncelleyin
+report: Bildirim
+remove: Kaldır
+react: Tepki
+reacts: Tepki verir
+read_more_expand_button: Daha fazla oku
+close_read_more_expand_button: Az oku
+edit_post_title: Düzenleme modu
+search: Arama
+home: Anasayfa
+create: Oluşturmak
+my_profile: Benim profilim
+my_pages: Sayfalarım
+log_out: Çıkış Yap
+write_a_post: Neler Düşünüyorsun ?
+send: Gönder
+my_friends: Arkadaşlarım
+my_groups: Gruplarım
+add_new: Yeni ekle
+publish: Yayınla
+marketplace_listing: Pazar yeri listesi
+advertisement: İlan
+ad: reklam
+your_notifications: Senin Bildirimlerin
+make_new_friend_description: Yeni insanlarla tanışmak
+create_new_page_description: Şirketiniz veya kuruluşunuz için
+create_group_description: İnsanları birbirine bağlayın
+create_advertisement_description: Ürünlerinizin reklamını yapın ve satış yapın
+create_on_marketplace_description: Ürünlerinizi satmaya başlayın
+manage_your_profile_description: Profilinizi yönetin
+manage_your_pages_description: Sayfalarınızı yönetin
+settings_description: Ayarlarınızı düzenleyin
+post_comment_placeholder: Bir yorum Yazın...
+write_a_message: Bir mesaj yazın...
+create_page_head_title: Şirketiniz için bir sayfa oluşturun
+header_search_placeholder: Arama
+update: Güncelleme
+friend_request_accepted: Kabul edin
+Name: Ad Soyad
+Firstname: İsim
+Lastname: Soyadı
+notice: Farkına varmak
+edit: Düzenle
+Update: Güncelleme
+Username: Kullanıcı adı
+Unset: Ayarlanmadı
+Username_not_set: Kullanıcı adınızı ayarlayın
+Contact_settings: İletişim
+Phone_number_settings: Telefon numarası
+phone_number_settings_placeholder: "33... ,44... ,45... "
+general_account_setting_title: Genel Hesap Ayarları
+security_account_setting_title: Güvenlik
+notifications_settings_title: Bildirimler
+id_confirmation: Kimlik Onayı
+verified_profile: Doğrulandı
+unverified_profile: Doğrulanmamış
+verify_my_profile: Doğrulayın
+password_settings: Parola
+No_recovery_email_set: Kurtarma e-postası ayarlanmadı.
+second_email_settings: Kurtarma Postası
+two_factor_auth_settings: İki Faktörlü Kimlik Doğrulama
+disabled: Engelli
+disable: Devre Dışı Bırakmak
+enabled: Etkinleştirildi
+last_login_ip_setting: Son giriş ip adresi
+updates_from_friends_settings: Arkadaşların Güncellemeleri
+SMS: SMS
+message: İleti
+in_app: Uygulama içi
+unset: Ayarlanmadı
+your_account_is_now_active: Hesabınız artık aktif
+activate_your_account: Hesabınızı şimdi etkinleştirin
+friend_requests_settings: Arkadaş istekleri
+birthdays_notif_settings: Doğum Günleri
+pages_you_follow_settings: Takip ettiğiniz sayfalar
+groups_notif_settings: Gruplar
+events_notif_settings: Etkinlikler
+marketplace_notif_settings: Pazar yeri
+verify_profile_notice:
+  İnsanların profilinize güvenmesini istiyorsanız.Hesabınızı Doğrulamalısınız
+  Hesabınız.
+notice_username_settings:
+  Gerçek Adınızı ve Soyadınızı Kullanmanızı Şiddetle Tavsiye Ederiz.
+  Daha iyi bir sosyal Platform için.
+notice_name_settings: ""
+notice_email_settings:
+  Bu e-postayı doğrulamanız gerekecek. E-posta adresinizin olduğundan emin olun
+  Doğrudur
+notice_password_settings:
+  Yeni bir şifre Belirleyin. Sayı,Harf Ve Özel Karaket Şifre Kullanın
+  Şifre.
+notice_second_email_settings:
+  Erişiminizi kaybetmeniz durumunda ikinci bir e-posta ayarlayın.
+  İlk Önce Şifrenizi sıfırlamak için.
+notice_two_factor_auth: Improve your account security
+notice_update_from_friends_settings:
+  Bildirim almak istediğiniz şeyi değiştirebilirsiniz
+  için
+notice_phone_number_settings: Telefon numaranız hesabınızı doğrulamak için kullanılır
+notice_friend_requests_settings: Yalnızca seçilen ayarlarla bildirim alın.
+notice_birthdays_notif_settings: Doğum günlerinden haberdar olun.
+notice_pages_you_follow_settings: Takip ettiğiniz sayfalardan haberdar olun
+notice_groups_notif_settings: Bulunduğunuz gruplardan bildirim alın
+notice_events_notif_settings: İlginizi çekebilecek olaylardan haberdar olun
+notice_marketplace_notif_settings: Pazar Yerin'den haberdar olun
+notice_create_page:
+  Bir sayfa oluşturduğunuzda, Aktagram'ın <a href='#'>Sayfalar policies</a>
+  Uygulayın.
+title_create_a_page: Bir sayfa Oluşturun
+title_page_descripton: Sayfa açıklaması
+title_about_us: Hakkımızda
+title_page_social_links: Sayfanın bağlantıları
+title_my_social_links: Sosyal bağlantılarım
+title_my_description: Benim Hakkımda
+title_my_biography: Biyografim
+title_my_pages: Sayfalarım
+title_my_pages_left: Üyesi
+about_website: İnternet sitesi
+about_phone_number: Telefon numarası
+about_email: E-posta adresi
+about_contact: İletişim
+decription_create_a_page: Bir sayfa oluşturduğunuzda, Aktagram'ın araçlarını aşağıdakiler için kullanabilirsiniz
+  şirketinizin veya ürünlerinizin reklamını yapmak. Daha sonra pazar yerinizi şuraya bağlayabilirsiniz
+  şirket sayfanız.
+description_create_a_company_page:
+  Bir şirket sayfası oluşturduğunuzda, erişiminiz olur
+  Aktagram tarafından sağlanan tüm araçlara. Böylece şirketinizin reklamını yapabileceksiniz.
+  Aktagram'daki ürün ve hizmetler. Sayfanızı oluşturun, tüm bilgileri tamamlayın ve
+  Satmaya başlayın!
+please_verify_your_account_error_message: Lütfen hesabınızı onaylayın
+email_or_password_doesnt_match_error_message: E-posta veya şifre eşleşmiyor
+please_enter_your_login_info_error_message: Lütfen e-posta adresinizi ve şifrenizi girin
+post_privacy_: Gizliliği düzenle # deprecated in V2
+post_privacy_1: Herkese Açık # deprecated in V2
+post_privacy_2: Sadece Arkadaşlar # deprecated in V2
+post_privacy_3: Sadece Aile # deprecated in V2
+post_privacy_4: Profesyonel halk # deprecated in V2
+post_privacy_5: Profesyonel özel # deprecated in V2
+placeholder_edit_post_title: Başlığı düzenleyin # deprecated in V2
+placeholder_add_post_title: Gönderi Başlığı ekleyin # deprecated in V2
+placeholder_edit_description: Açıklamayı düzenleyin # deprecated in V2
+placeholder_add_a_description: Bir Açıklama Ekle # deprecated in V2
+placeholder_comment_this_post: Bu gönderiye yorum yapın ... # deprecated in V2
+post_composer_create_a_post_title: Bir gönderi oluştur
+placeholder_post_description: Bugün ne yaptın ? # deprecated in V2
+placeholder_post_add_title: Başlık ekle (İsteğe bağlı) # deprecated in V2
+button_create_a_post: Bir Gönderi oluştur
+button_create_a_story: Bir Hikaye Oluşturun
+button_upload_a_picture: Bir Resim Yükle
+button_upload_a_video: Video yükleyin
+add_to_the_post: Gönderiye ekle
+following: Takip Etme
+unfollow: Takibi Bırak
+friend_request_sent: Arkadaşlık isteği gönderildi
+incomming_friend_request: Gelen Arkadaşlık istekleri
+action_send_a_friend_request: Arkadaşlık isteği yolla
+action_accept_friend_request: Kabul Edin
+action_unfriend: Arkadaşlıktan Çıkar
+action_cancel_friend_request: Arkadaşlık isteğini iptal Et
+friend_request_canceled: İptal edildi
+friend_request: Sana arkadaşlık isteği gönderdi
+accept_friend_request: Arkadaşlık isteğini kabul etti
+connect_request_sent: Bağlantı isteği gönderildi
+cancel_connect_with: Bağlantıyı iptal et
+unconnect_with: Bağlantıyı kaldır
+accept_connect_request: Bağlantıyı kabul Edin
+ask_connection: Seninle bağlantı kurmak istiyorum
+accept_connection_request: Bağlantı Talebinizi kabul etti
+empty_post_welcome_message:
+  Yepyeni sosyal ağ Aktagram'a hoş geldiniz! <br><br>
+  Burada olduğun için mutluyuz. Aktagram ile özgürce paylaşın , Yayınla ve Konuş
+  izlendiğinizi hissetmeden! İşte gerçek özgürlük. <br><br> Sayarız
+  Burayı hepimizin yer alabileceği bir Platform  haline getirmen için sana. Şiddetle tavsiye ediyoruz
+  Bunları okumalısın <a href='#'> kurallar ve davranış kuralları </a> herhangi bir denetlemeden kaçınmak için
+  Profilinizde. <br><br> Bu mesajı görüyorsanız, bunun nedeni yeni olmanızdır.
+  Sitedeki tüm bağlantıları ve düğmeleri keşfederek başlayabilirsiniz. Ayrıca unutma
+  to <a href='./myaccount/profile.php'> complete your profile </a> Böylece herkes yapabilir
+  onları arkadaş olarak eklerken veya onlarla bağlantı kurarken sana güveniyorum!
+login_or_signup: Şimdi Giriş Yapın veya Kaydolun
+meta_title_my_pages: Sayfalarım
+meta_title_messenger: Gelen Mesajlar
+homepage_metadescription:
+  Aktagram'a hoş geldiniz! Yepyeni sosyal ağı keşfedin.
+  Güvendiğiniz bir sosyal ağ.
+page_title_create_page: Bir sayfa Oluştur
+page_title_notification_center: Bildirim merkezi
+page_title_messenger: Sohbet Kutusu
+button_add_a_description: Bir açıklama ekle
+no_profile_description: There is no description for now
+register_check_your_email: Giriş yapmadan önce e-posta adresinizi doğrulamalısınız
+email_register_account_success:
+  Hesabınız oluşturuldu Aktagram'a Hoş Geldiniz
+  !
+email_register_account_creation:
+  "Aktagram'a hoş geldiniz, sizleri aramızda görmekten mutluluk duyarız.
+  Bu yepyeni sosyal ağdaki bir üye, lütfen hesabınızı bağlantı ile doğrulayın
+  bellow :"
+empty_profile_description: Konuşmak için çok utangaç
+sent: Gönderildi
+email_verif_warning_unverified_title: E-postanızı doğrulamalısınız!
+email_verif_warning_unverified_message:
+  Güvenlik nedeniyle onaylamanız gerekiyor
+  hesabınız için . Siz kaydolurken, bazen bir e-posta gönderdik.
+  Spam'ı Kontrol Edin
+welcome_to_motd:
+  1: Hoşgeldiniz
+  2: Zevk almak
+  3: İle sosyalleşin
+  4: Yeni arkadaşlar bul
+Register_message:
+  registering: Kayıt
+  registered_sucessfully: Başarıyla kayıt olundu
+  email_sent: Size bir e-posta gönderdik
+  # redirect: You will be redirect to the login page
+Register_message_error:
+  user_already_exist: Bu kullanıcı zaten kayıtlı
+  something_went_wrong: Bir şeyler ters gitti, tekrar deneyin
+  invalid_email: Geçersiz e-posta
+  invalid_password: Geçersiz şifre
+rgpd_policies:
+  1: Bir hesap oluşturarak Aktagram'ı okudum ve kabul ettim.
+  2: Gizlilik Politikası
+  3: ve
+  4: Şartlar ve koşullar.
+invite_friends: Davet et
+about_me: Benim hakkımda
+gender_array:
+  1: Erkek
+  2: Kadın
+description: Açıklama
+other: Diğer
+there_is_no_description: Boş
+username: Kullanıcı adı
+phone_number: Telefon numarası
+settings_title:
+  updates_from_friends: Arkadaşlardan güncellemeler
+  friend_requests: Arkadaş istekleri
+post_privacy:
+  0:
+    value: 0
+    option: Herkes
+    selected: true
+  1:
+    value: 1
+    option: Sadece Arkadaşlar
+    selected: false
+placeholders:
+  header:
+    search: Arama
+  post_comment: Bir yorum Yaz...
+  settings:
+    phone_number_: "33... ,44... ,45... "
+  post_composer:
+    add_title: Başlık ekleyin (İsteğe bağlı)
+    add_description: Bugün ne yaptın
+  post:
+    comment_this_post: Bu gönderiye yorum yapın ...
+    edit:
+      title: Gönderi başlığını düzenleyin
+      description: Açıklamayı düzenleyin
+    add:
+      description: Bir açıklama ekle
+      title: Başlık ekle
+  messenger:
+    find_contact: Bir Arkadaş Bul
+reactions: Tepkiler
+shares: Paylar
+share: Paylaş
+like: Beğenin
+liked: Beğendi
+likes: Beğeniyor
+comments: Yorumlar
+comment: Yorum Yap
+shared: Paylaşılan
+reply: Cevapla
+group: Grup
+private: Özel
+unread: Okunmamış
+unreads: Okunmamışlar
+messenger_arr:
+  beginning_title: Yeni bir hikayenin başlangıcı
+  list_good:
+    be_cool: Sakin ve Doğru Olun
+    expand_love_truth: Sevgiyi ve Hakikati Genişletin
+  list_bad:
+    no_harrass: Taciz etmeyin
+messenger: Sohbet Kutusu
+find_new_friends: Yeni arkadaşlar bul
+notifications: Bildirimler
+email_hi: Merhaba
+email_subject:
+  email_password_reset_request: Şifrenizi mi unuttunuz?
+  friend_request_pending: Arkadaşın olmak istiyor
+email_request_unwanted: Bu isteğin sizin tarafınızdan yapılmadığını düşünüyorsanız, sadece görmezden gelin
+email_preheader:
+  forgot_password: Şifrenizi sıfırlayın
+  friend_request_pending: Arkadaşın olmak istiyor
+reset_your_password: Sıfırla
+reset_password: Sıfırla
+email_request:
+  body:
+    forgot_password: Şifrenizi unuttunuz ve son zamanlarda bizden hesabınızı kurtarmanıza izin vermemizi istediniz, aşağıdaki bağlantıya tıklayarak şifrenizi sıfırlayabilirsiniz.
+    friend_request_pending: Bu kişi arkadaşın olmak istiyor, onu eklemek ister misin / ona ?
+notif_message:
+  accepted_your_friend_request: Arkadaşlık isteğin kabul edildi
+  is_following_you: Seni takip etmeye başladım
+  friend_request: Arkadaşın olmak ister misin
+button:
+  accept_friend_request: Kabul etmek
+updated: Güncellenmiş
+modal:
+  report:
+    report: Bildiri
+    reasons: 
+      sexual_content: Cinsel içerik
+      fake_news: Olası yalan haberler
+      Other: Diğer
+    post_title: Gönderiyi rapor et
+    reason_title: Bir sebep seçin
+select_multipe_to_create_group: Grup oluşturmak için birden çok seçin
+username_error:
+  invalid: Bu kullanıcı adı geçersiz. Sadece harfler, sayılar, - ve _ izin verilir.
+  already_exist: Bu kullanıcı adı zaten var
