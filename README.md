@@ -2,6 +2,7 @@
 These are the files that Aktagram will use for site translations
 
 
+
 A. If you dont know how to use github well yet do this :
   1. Download (clone) en-us.yaml file.
   2. If the language file doesn't exist then open an issue with the title : Add 'French' language support.
