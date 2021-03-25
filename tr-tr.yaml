@@ -1,0 +1,65 @@
+---
+french: "fran\xE7ais"
+english: English
+turkish: "Turk\xE7e"
+register_mentions_accept: "Bir hesap olu\u015Fturarak, Aktagram'in <a href='https://policies.aktagram.com'>gizlilik
+  politikas\u0131n\u0131</a>, <a href='https://policies.aktagram.com'> kullan\u0131m
+  ko\u015Fullar\u0131n\u0131</a> okudum ve <a href='https://policies.aktagram.com'>
+  yasal bildirimleri</a> okudu\u011Fumu iddia ve kabul ediyorum"
+already_have_an_account: Hesabiniz varmiyidi ? <br> buradan <a href='login.php'> girebilirziniz
+  ! </a>
+not_registered_yet: "Hen\xFCz bir hesab\u0131n\u0131z yok mu ? <br> buradan <a href='register.php'>uye
+  olabilirsiniz</a>"
+sucessfull_register_message_mail: "Votre compte a \xE9t\xE9 cr\xE9e avec succes sur
+  SI CONNECT ! <br><br> Vous pouvez d\xE9sormais vous connectez \xE0 cette adresse
+  <a href='https://aktagram.com/login.php'>accounts.aktagram.com</a><br> <br> Merci
+  de nous faire confiance <br><br> Ceci est un mail automatique. Veuillez ne pas repondre,
+  car il ne fera l'objet d'aucun traitement"
+no-reply: Cevap vermeyin
+firstname: Ad
+lastname: Soyad
+email: E-posta
+address: Adresler
+surname: Takma ad
+birthday: "Dogum g\xFCn\xFCn\xFCz"
+city: "Il\xE7e"
+town: Town
+country: "\xFClke"
+day: "g\xFCn"
+month: ay
+year: Yil
+shipping: Teslimat
+billing: Faturalama
+your_username: Giriş ekle
+your_lastname: Soya addiniz
+your_firstname: Adınız
+your_birthday: "Dogum g\xFCn\xFCn\xFCz"
+your_email: Emailiniz
+your_email_address: E-posta adresiniz
+your_password: Şifreniz
+do_not_have_an_account_yet: Daha üye olmadiniz mı ?
+register_here: Buradan üye olun
+privacy_policy: "Gizlilik Politikas\u0131"
+terms_of_use: "kullan\u0131m \u015Eartlar\u0131"
+you_can: Yapabilirsin
+login: "Oturum a\xE7"
+register: üye ol
+register_maj: üye ol
+register_simple: üye ol
+password: şifre
+confirm_password: Şifrenizi Tekrarlayin
+register_with_siconnect_maj: <strong>SI CONNECT</strong> ile Üye ol
+login_with_siconnect_maj: "<strong>SI CONNECT</strong> ile oturum a\xE7"
+forgot_your_password: Şifrenizi unuttunuzmu  ?
+search: Ara
+home: Ana sayfa
+home_maj: ana sayfa
+find_new_friends_maj: "Arkada\u015Flar\u0131n\u0131 Bul"
+find_new_friends: "arkada\u015Flar\u0131n\u0131 Bul"
+create_maj: "Olu\u015Ftur"
+create: "olu\u015Ftur"
+my_profile_maj: Profilim
+my_pages_maj: "Sayfalar\u0131m"
+log_out_maj: "\xC7\u0131k\u0131\u015F Yap"
+settings_maj: Ayaralar
+...

@@ -1,0 +1,437 @@
+---
+french: "fran\xE7ais"
+english: English
+turkish: "Turk\xE7e"
+index_head_description:
+  Welcome to the brand new social network ! Our mission is to
+  bring the possibility to people to saty connected between each other no matter what
+  happens in our society.
+register_mentions_accept:
+  By creating an account, i've read and accepted Aktagram's
+  <a href='https://policies.aktagram.com' target='blank'>privacy policy</a> and <a
+  href='https://policies.aktagram.com' target='blank'>terms and conditions.</a>
+already_have_an_account: You already have an account ?
+not_registered_yet: Do not have an account yet ?
+no-reply: no-reply
+create_group: Create group
+create_page: Create page
+firstnameError: Your firstname
+lastnameError: Your lastname
+emailError: Your email
+passwordError: Set a password
+thankyou_message: Please check your email inbox and verify your account
+email_already_in_use: This email is already in use
+login_successful_message: Successfully logged, you will be redirected automatically
+javascriptError_title: Javascript is required
+javascriptError_message: We are sorry, Aktagram cannot work properly without javascript
+edit_post_privacy: Post privacy
+download_the_application: Download the app.
+join_the_beta_program_now: Join the beta program
+conversations: Conversations
+chat: Chat
+chatting: chatting
+date: Date
+Dating: Dating
+meet: Meet
+meeting: Meeting
+men: Men
+mens: mens
+women: Women
+womens: Womens
+man: Man
+woman: Womans
+not_found_user: This user doesn't exist !
+follow: Follow
+followers: Follower(s)
+follows: Follow(s)
+friends: Friend(s)
+connect_with: Connect
+posts: Post(s)
+firstname: Firstname
+lastname: Lastname
+email: Email
+address: Address
+gender: Gender
+male: Male
+female: Female
+surname: Surname
+birthday: Birthday
+city: City
+town: Town
+country: Country
+day: Day
+month: Month
+year: Year
+shipping: Shipping
+billing: Billing
+your_username: Your username
+your_lastname: Your lastname
+your_firstname: Your firstname
+your_birthday: Your birthday
+your_email: Your email
+your_email_address: Your email Address
+your_password: Your password
+do_not_have_an_account_yet: Do not have an account yet
+register_here: Register here
+login_here:
+  1: You can
+  2: login here
+privacy_policy: Privacy policy
+terms_of_use: Terms of use
+you_can: You can
+login: Login
+register: register
+register_simple: register
+password: Password
+confirm_password: Confirm your password
+register_with_siconnect: Register with <strong>SI CONNECT</strong>
+login_with_siconnect: Login with <strong>SI CONNECT</strong>
+forgot_your_password: Forgot your password ?
+Enable: Enable
+enable: enable
+update_my_profile_pic: Update avatar
+update_my_profile_cover: update cover
+update_cover_profile_button: Update cover
+report: report
+remove: remove
+react: React
+reacts: Reacts
+read_more_expand_button: Read more
+close_read_more_expand_button: Read less
+edit_post_title: Edit mode
+search: Search
+home: Home
+create: Create
+my_profile: My profile
+my_pages: My pages
+log_out: Log out
+write_a_post: What did you have done today ?
+send: send
+my_friends: My friends
+my_groups: My groups
+add_new: Add new
+publish: Publish
+marketplace_listing: Marketplace listing
+advertisement: Advertisement
+ad: Ad
+your_notifications: Your notifications
+make_new_friend_description: Meet new people
+create_new_page_description: For your company or organisation
+create_group_description: Connect people with each other
+create_advertisement_description: Advertise your products and sell
+create_on_marketplace_description: Start selling your products
+manage_your_profile_description: Manage your profile
+manage_your_pages_description: Manage your pages
+settings_description: Edit your settings
+post_comment_placeholder: Write a comment...
+write_a_message: Write a message...
+create_page_head_title: Create a page for your company
+header_search_placeholder: Search
+update: update
+friend_request_accepted: Accepted
+Name: Name
+Firstname: Firstname
+Lastname: Lastname
+notice: notice
+edit: Edit
+Update: Update
+Username: Username
+Unset: Unset
+Username_not_set: Set your username
+Contact_settings: Contact
+Phone_number_settings: Phone number
+phone_number_settings_placeholder: "33... ,44... ,45... "
+general_account_setting_title: General account settings
+security_account_setting_title: Security
+notifications_settings_title: Notifications
+id_confirmation: ID Confirmation
+verified_profile: Verified
+unverified_profile: Unverified
+verify_my_profile: Verify
+password_settings: Password
+No_recovery_email_set: No recovery email set.
+second_email_settings: Recovery email
+two_factor_auth_settings: Two Factor Authentification
+disabled: disabled
+disable: disable
+enabled: enabled
+last_login_ip_setting: Last login ip address
+updates_from_friends_settings: Updates from friends
+SMS: SMS
+message: message
+in_app: In app
+unset: Unset
+your_account_is_now_active: Your account is now active
+activate_your_account: Activate your account now
+friend_requests_settings: Friend requests
+birthdays_notif_settings: Birthdays
+pages_you_follow_settings: Pages you follow
+groups_notif_settings: Groups
+events_notif_settings: Events
+marketplace_notif_settings: Marketplace
+verify_profile_notice:
+  If you wish that people trust your profile. You need to verify
+  your account.
+notice_username_settings:
+  We highly recommend you to use your real firstname and lastname
+  for a better social network
+notice_name_settings: ""
+notice_email_settings:
+  You will have to verify this email. Make sure your email addres
+  is right
+notice_password_settings:
+  Settings a new password. We recommend you to use a complexe
+  password.
+notice_second_email_settings:
+  Setup a second email in case if you lose access to the
+  first one. And to be able to reset password.
+notice_two_factor_auth: Improve your account security
+notice_update_from_friends_settings:
+  You can change what you want to get notified
+  for
+notice_phone_number_settings: Your phone number is used to verify your account
+notice_friend_requests_settings: Get notified only with the selected settings.
+notice_birthdays_notif_settings: Get notified from the nexts birthdays.
+notice_pages_you_follow_settings: Get notified from pages you follow
+notice_groups_notif_settings: Get notified from groups you are in
+notice_events_notif_settings: Get notified from events which may interest you
+notice_marketplace_notif_settings: Get notified from the markerplace
+notice_create_page:
+  When you create a page, Aktagram's <a href='#'>Pages policies</a>
+  apply.
+title_create_a_page: Create a page
+title_page_descripton: Page description
+title_about_us: About us
+title_page_social_links: Page's links
+title_my_social_links: My social links
+title_my_description: My description
+title_my_biography: My biography
+title_my_pages: My pages
+title_my_pages_left: Member of
+about_website: Website
+about_phone_number: Phone number
+about_email: Email
+about_contact: Contact
+decription_create_a_page:
+  When you create a page, you can use Aktagram's tools for
+  advertising your company or your products. You can later link your marketplace to
+  your company page.
+description_create_a_company_page:
+  When you create a company page, you have access
+  to all tools provided by Aktagram. So you will be able to advertise your company's
+  products and services on Aktagram. Create your page, complete all informations and
+  start selling !
+please_verify_your_account_error_message: Please confirm your account
+email_or_password_doesnt_match_error_message: Email or password doesn't match
+please_enter_your_login_info_error_message: Please enter your email and password
+post_privacy_: Edit privacy # deprecated in V2
+post_privacy_1: Everyone # deprecated in V2
+post_privacy_2: Friends only # deprecated in V2
+post_privacy_3: Family only # deprecated in V2
+post_privacy_4: Professionnal public # deprecated in V2
+post_privacy_5: Professionnal private # deprecated in V2
+placeholder_edit_post_title: Edit the title # deprecated in V2
+placeholder_add_post_title: Add post title # deprecated in V2
+placeholder_edit_description: Edit the description # deprecated in V2
+placeholder_add_a_description: Add a description # deprecated in V2
+placeholder_comment_this_post: Comment this post ... # deprecated in V2
+post_composer_create_a_post_title: Create a post
+placeholder_post_description: What did you have done today ? # deprecated in V2
+placeholder_post_add_title: Add a title (Optionnal) # deprecated in V2
+button_create_a_post: create a post
+button_create_a_story: create a story
+button_upload_a_picture: upload a picture
+button_upload_a_video: upload a video
+add_to_the_post: Add to the post
+following: Following
+unfollow: unfollow
+friend_request_sent: Friend request sent
+incomming_friend_request: Incoming friend requests
+action_send_a_friend_request: Send a friend request
+action_accept_friend_request: accept
+action_unfriend: Unfriend
+action_cancel_friend_request: cancel friend request
+friend_request_canceled: Canceled
+friend_request: Sent you a friend request
+accept_friend_request: has accepted your friend request
+connect_request_sent: Connect request sent
+cancel_connect_with: Cancel connection
+unconnect_with: Remove connection
+accept_connect_request: Accept connection
+ask_connection: Want to connect with you
+accept_connection_request: has accepted your connection request
+welcome_to_aktagram: Welcome to Aktagram
+empty_post_welcome_message:
+  Welcome to the brand new social network Aktagram ! <br><br>
+  We are happy to have you there. With Aktagram feel free to share , publish and talk
+  without feeling you are being tracked ! Here it is true freedom. <br><br> We count
+  on you to make this Akatgram a better place for everyone. We highly recommend
+  you to read our <a href='#'> rules and code of conduct </a> to avoid any moderation
+  on your profile. <br><br> If you are seeing this message, it's because you are new.
+  You can start by discovering all links and buttons on the site. Also dont forget
+  to <a href='/my/settings'> complete your profile </a> so everyone can
+  trust you while adding them as friend with them !
+login_or_signup: Login or Sign up now
+meta_title_my_pages: my pages
+meta_title_messenger: Messenger
+homepage_metadescription:
+  Welcome to Aktagram ! Discover the brand new social network.
+  A social network that you trust.
+page_title_create_page: create a page
+page_title_notification_center: notifications center
+page_title_messenger: messenger
+button_add_a_description: Add a description
+no_profile_description: There is no description for now
+register_check_your_email: You must verify your email address before logging in
+email_register_account_success:
+  Your account has been created Welcome to Aktagram
+  !
+email_register_account_creation:
+  "Welcome to Aktagram, we are happy to have you as
+  a member in this brand new social network, please verify your account with the link
+  bellow :"
+empty_profile_description: Too shy to talk
+sent: sent
+email_verif_warning_unverified_title: You must verify your email !
+email_verif_warning_unverified_message:
+  For security reasons, you need to confirm
+  your account. While you have registered, we have sent an email which can sometimes
+  fall in SPAM.
+welcome_to_motd:
+  1: Welcome to
+  2: Enjoy
+  3: Socialise with
+  4: Find new friends
+Register_message:
+  registering: Registering
+  registered_sucessfully: Registered successfully
+  email_sent: We have sent you an email
+  # redirect: You will be redirect to the login page
+Register_message_error:
+  user_already_exist: This user is already registered
+  something_went_wrong: Something went wrong, try again
+  invalid_email: Invalid email
+  invalid_password: Invalid password
+rgpd_policies:
+  1: By creating an account, i've read and accepted Aktagram's
+  2: privacy policy
+  3: and
+  4: terms and conditions.
+invite_friends: Invite
+about_me: About me
+gender_array:
+  1: Male
+  2: Female
+description: Description
+other: Other
+there_is_no_description: Empty
+username: Username
+phone_number: Phone number
+settings_title:
+  updates_from_friends: Updates from friends
+  friend_requests: Friend requests
+post_privacy:
+  0:
+    value: 0
+    option: Everyone
+    selected: true
+  1:
+    value: 1
+    option: Friends only
+    selected: false
+placeholders:
+  header:
+    search: Search
+  post_comment: Write a comment...
+  settings:
+    phone_number_: "33... ,44... ,45... "
+  post_composer:
+    add_title: Add a title (Optionnal)
+    add_description: What did you have done today ?
+  post:
+    comment_this_post: Comment this post ...
+    edit:
+      title: Edit post title
+      description: Edit description
+    add:
+      description: Add a description
+      title: Add a title
+  messenger:
+    find_contact: Find a friend
+reactions: Reactions
+shares: Shares
+share: Share
+share_link: Share link
+like: Like
+liked: Liked
+likes: Likes
+comments: Comments
+comment: Comment
+shared: Shared
+reply: Reply
+group: Group
+private: Private
+unread: Unread
+unreads: Unreads
+messenger_arr:
+  beginning_title: The begining of a new story
+  list_good:
+    be_cool: Be Cool and Right
+    expand_love_truth: Expand love and Truth
+  list_bad:
+    no_harrass: Do not harrass
+messenger: Messenger
+find_new_friends: Find new friends
+notifications: Notifications
+email_hi: Hi
+email_subject:
+  email_password_reset_request: Forgot your password request
+  friend_request_pending: wants to be your friend
+email_request_unwanted: If you think that this request is not made by you, just ignore
+email_preheader:
+  forgot_password: Reset your password
+  friend_request_pending: wants to be your friend
+reset_your_password: Reset
+reset_password: Reset
+email_request:
+  body:
+    forgot_password: You have forgotten your password and you have recently asked us to let you recover your account, you can by clicking on the link bellow, reset your password.
+    friend_request_pending: This person wants to be your friend, would you like to add him / her ?
+notif_message:
+  accepted_your_friend_request: Accepted your friend request
+  is_following_you: Started to follow you
+  friend_request: Want to be your friend
+button:
+  accept_friend_request: Accept
+updated: Updated
+modal:
+  report:
+    report: Report
+    reasons:
+      sexual_content: Sexual content
+      fake_news: Potential fake news
+      Other: Other
+    post_title: Report post
+    reason_title: Select a reason
+    details_title: Details (Optional)
+select_multipe_to_create_group: Select multiple to create a group
+username_error:
+  invalid: This username is invalid. Only letters, numbers and _ are allowed.
+  already_exist: This username already exist
+notices:
+  post:
+    published:
+      message: Posted successfully
+    publishing:
+      message: Publishing post
+    removed:
+      message: Removed successfully
+    removing:
+      message: Removing
+  report:
+    reported:
+      message: Reported successfully
+settings: Settings
+settings_page:
+  general_account_setting_title: General account settings
+  language_preferences: Language preferences

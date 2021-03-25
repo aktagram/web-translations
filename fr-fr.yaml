@@ -1,0 +1,80 @@
+---
+french: "fran\xE7ais"
+english: English
+turkish: "Turk\xE7e"
+register_mentions_accept: "En cr\xE9ant un compte, j'ai lu et accept\xE9 la <a href='https://policies.aktagram.com'
+  target='blank'>politique de confidentialit\xE9</a>, <a href='https://policies.aktagram.com'
+  target='blank'>conditions d'utilisatons.</a> et affirme avoir pris connaissance
+  des <a href='https://policies.aktagram.com' target='blank'>mentions l\xE9gales.</a>
+  d'Aktagram"
+already_have_an_account: "Vous avez d\xE9ja un compte ? <br> Vous pouvez <a href='login.php'>
+  vous connecter ici ! </a>"
+not_registered_yet: Vous n'avez pas encore de compte ? <br> vous pouvez vous <a href='register.php'>enregistrer
+  ici</a>
+sucessfull_register_message_mail: "Votre compte a \xE9t\xE9 cr\xE9e avec succes sur
+  SI CONNECT ! <br><br> Vous pouvez d\xE9sormais vous connectez \xE0 cette adresse
+  <a href='https://aktagram.com/login.php'>aktagram.com</a><br> <br> Merci de nous
+  faire confiance <br><br> Ceci est un mail automatique. Veuillez ne pas repondre,
+  car il ne fera l'objet d'aucun traitement"
+no-reply: ne-pas-repondre
+account_sucessfully_created: "Votre compte Aktagram viens d'\xE9tre cr\xE9e ! Activez
+  votre compte"
+email_sent_account_creation: "Un email viens d'etre envoy\xE9 pour verifier votre
+  compte"
+firstname: "Pr\xE9nom"
+lastname: Nom
+email: Email
+address: Adresse
+surname: Surnom
+birthday: Date de naissance
+gender: Genre
+male: Homme
+female: Femme
+city: Ville
+town: Town
+country: Pays
+day: Jours
+month: Mois
+year: "Ann\xE9e"
+shipping: Livraison
+billing: Facturation
+your_username: Votre nom d'utilisateur
+your_lastname: Votre nom
+your_firstname: Your firstname
+your_birthday: Votre date de naissance
+your_email: Votre email
+your_email_address: Votre adresse email
+your_password: Votre mot de passe
+do_not_have_an_account_yet: Vous n'avez pas encore de compte
+register_here: s'enregistrer ici
+privacy_policy: "Politique de confidentialit\xE9"
+terms_of_use: Conditions d'utilisation
+you_can: Vous pouvez
+login: Se connecter
+register: s'enregister
+register_maj: S'enregister
+register_simple: enregistrer
+password: Mot de passe
+confirm_password: Confirmer le mot de passe
+register_with_siconnect_maj: S'enregistrer avec <strong>SI CONNECT</strong>
+login_with_siconnect_maj: Se connecter avec <strong>SI CONNECT</strong>
+forgot_your_password: "Mot de passe oubli\xE9 ?"
+search: Rechercher
+home: accueil
+home_maj: Accueil
+find_new_friends_maj: Trouver des amis
+find_new_friends: trouver des amis
+create_maj: "Cr\xE9er"
+create: "cr\xE9er"
+my_profile_maj: Mon profile
+my_pages_maj: Mes pages
+log_out_maj: "Se d\xE9connecter"
+settings_maj: Reglages
+publish: Publier
+header_search_placeholder: Rechercher
+make_new_friend_description: Faite vous des amis
+create_page: créer une page
+create_new_page_description: créer une nouvelle page
+create_group: créer un group
+create_group_description: Créer un groupe
+...
